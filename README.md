@@ -30,7 +30,7 @@ Some of the projects included in this portfolio:
 
 - **Student Performance Prediction** – Data analysis & ML-based project  
 - **IPL Data Analysis** – Insights and visualizations using Python  
-- **HealthKart Dashboard** – Dashboard for campaign performance analysis  
+- **MUDRAPAY** – Dashboard for campaign performance analysis  
 
 (Each project includes screenshots and brief descriptions.)
 
@@ -39,10 +39,10 @@ Some of the projects included in this portfolio:
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA)**  
-  GIET University (2021 – 2023)
+  NM Institute of Engineering & Technology (2024 – 2026)
 
 - **Bachelor of Science (Physics)**  
-  NM Institute of Engineering & Technology (2018 – 2021)
+  Pattamundai Degree College(2018 – 2021)
 
 ---
 
